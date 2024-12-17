@@ -1,0 +1,396 @@
+/* section no:all responsive start*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+    .carousel_content h1 {
+        font-size: 16px !important;
+    }
+    .carousel_content h3 {
+        display: none;
+    }
+    .carousel_content a {
+        font-size: 10px !important;
+        margin-left: 60px !important;
+    }
+    .dr_younus img{
+        display: none;
+    }
+    .atalan_ta h1 {
+        font-size: 20px !important;
+    }
+    .atalan_ta p{
+        font-size: 12px !important;
+    }
+    .atalan_ta {
+        font-size: 15px !important;
+    }
+    .vedio_text h1 {
+        font-size: 25px !important;
+        padding-top: 160px !important;
+    }
+    .vedio_text a {
+        font-size: 10px !important;
+    }
+    .four_content {
+        padding-top: 40px !important;
+    }
+    .inova_tiv h1 {
+        font-size: 25px !important;
+    }
+    .medical_header h1 {
+        font-size: 30px !important;
+    }
+    .Congen_ital {
+        text-align: center;
+    }
+    .start_bg h1 {
+        font-size: 20px !important;
+    }
+    .image_star {
+        padding-left: 60%;
+        margin-left: 0px !important;
+    }
+    .image_star img {
+        width: 25px !important;
+        height: auto !important;
+    }
+    .star_button  {
+        margin:0px !important;
+    }
+    .star_button a{
+        margin-left: 40%;
+        font-size: 15px !important;
+    }
+    .smile_special p {
+        font-size: 15px !important;
+    }
+    .smile_button {
+        margin: 0px !important;
+    }
+    .smile_button a h4 {
+        margin-left: 45px;
+    }
+    .right_picture {
+        padding-left: 30% !important;
+        margin-bottom: 20px !important;
+    }
+    .right_picture h1 {
+        padding-left: 22% !important;
+        top: 110px !important;
+    }
+    .left_image {
+        padding-left: 30% !important;
+        margin-bottom: 20px !important;
+    }
+    .left_image h1 {
+        padding-left: 22% !important;
+        top: 120px !important;
+    }
+    .middle_image {
+        padding-left: 30% !important;
+        margin-bottom: 20px !important;
+    }
+    .middle_image h1 {
+        padding-left: 22% !important;
+        top: 110px !important;
+    }
+    .right_image {
+        padding-left: 30% !important;
+        margin-bottom: 20px !important;
+    }
+    .right_image h1 {
+        padding-left: 22% !important;
+        top: 110px !important;
+        font-size: 15px !important;
+    }
+ }
+ 
+ /* Medium Devices, Desktops */
+ @media only screen and (max-width : 992px) {
+    .carousel_content h1 {
+        font-size: 16px !important;
+    }
+    .carousel_content h3 {
+        display: none;
+    }
+    .carousel_content a {
+        font-size: 10px !important;
+        margin-left: 60px !important;
+    }
+    .dr_younus img{
+        display: none;
+    }
+    .atalan_ta h1 {
+        font-size: 20px !important;
+    }
+    .atalan_ta p{
+        font-size: 12px !important;
+    }
+    .atalan_ta {
+        font-size: 15px !important;
+    }
+    .vedio_text h1 {
+        font-size: 25px !important;
+        padding-top: 160px !important;
+    }
+    .vedio_text a {
+        font-size: 10px !important;
+    }
+    .four_content {
+        padding-top: 40px !important;
+    }
+    .inova_tiv h1 {
+        font-size: 25px !important;
+    }
+    .medical_header h1 {
+        font-size: 30px !important;
+    }
+    .Congen_ital {
+        text-align: center;
+    }
+    .start_bg h1 {
+        font-size: 20px !important;
+    }
+    .image_star {
+        padding-left: 60%;
+        margin-left: 0px !important;
+    }
+    .image_star img {
+        width: 25px !important;
+        height: auto !important;
+    }
+    .star_button  {
+        margin:0px !important;
+    }
+    .star_button a{
+        margin-left: 40%;
+        font-size: 15px !important;
+    }
+    .smile_special p {
+        font-size: 15px !important;
+    }
+    .smile_button {
+        margin: 0px !important;
+    }
+    .smile_button a h4 {
+        margin-left: 45px;
+    }
+ }
+ 
+ /* Small Devices, Tablets */
+ @media only screen and (max-width : 768px) {
+    .carousel_content h1 {
+        font-size: 16px !important;
+    }
+    .carousel_content h3 {
+        display: none;
+    }
+    .carousel_content a {
+        font-size: 10px !important;
+        margin-left: 60px !important;
+    }
+    .dr_younus img{
+        display: none;
+    }
+    .atalan_ta h1 {
+        font-size: 20px !important;
+    }
+    .atalan_ta p{
+        font-size: 12px !important;
+    }
+    .atalan_ta {
+        font-size: 15px !important;
+    }
+    .vedio_text h1 {
+        font-size: 25px !important;
+        padding-top: 160px !important;
+    }
+    .vedio_text a {
+        font-size: 10px !important;
+    }
+    .four_content {
+        padding-top: 40px !important;
+    }
+    .inova_tiv h1 {
+        font-size: 25px !important;
+    }
+    .medical_header h1 {
+        font-size: 30px !important;
+    }
+    .Congen_ital {
+        text-align: center;
+    }
+    .start_bg h1 {
+        font-size: 20px !important;
+    }
+    .image_star {
+        padding-left: 60%;
+        margin-left: 0px !important;
+    }
+    .image_star img {
+        width: 25px !important;
+        height: auto !important;
+    }
+    .star_button  {
+        margin:0px !important;
+    }
+    .star_button a{
+        margin-left: 40%;
+        font-size: 15px !important;
+    }
+    .smile_special p {
+        font-size: 15px !important;
+    }
+    .smile_button {
+        margin: 0px !important;
+    }
+    .smile_button a h4 {
+        margin-left: 45px;
+    }
+  
+ }
+ 
+ /* Extra Small Devices, Phones */ 
+ @media only screen and (max-width : 480px) {
+    .carousel_content h1 {
+        font-size: 16px !important;
+    }
+    .carousel_content h3 {
+        display: none;
+    }
+    .carousel_content a {
+        font-size: 10px !important;
+        margin-left: 60px !important;
+    }
+    .dr_younus img{
+        display: none;
+    }
+    .atalan_ta h1 {
+        font-size: 20px !important;
+    }
+    .atalan_ta p{
+        font-size: 12px !important;
+    }
+    .atalan_ta {
+        font-size: 15px !important;
+    }
+    .vedio_text h1 {
+        font-size: 25px !important;
+        padding-top: 160px !important;
+    }
+    .vedio_text a {
+        font-size: 10px !important;
+    }
+    .four_content {
+        padding-top: 40px !important;
+    }
+    .inova_tiv h1 {
+        font-size: 25px !important;
+    }
+    .medical_header h1 {
+        font-size: 30px !important;
+    }
+    .Congen_ital {
+        text-align: center;
+    }
+    .start_bg h1 {
+        font-size: 20px !important;
+    }
+    .image_star {
+        padding-left: 60%;
+        margin-left: 0px !important;
+    }
+    .image_star img {
+        width: 25px !important;
+        height: auto !important;
+    }
+    .star_button  {
+        margin:0px !important;
+    }
+    .star_button a{
+        margin-left: 40%;
+        font-size: 15px !important;
+    }
+    .smile_special p {
+        font-size: 15px !important;
+    }
+    .smile_button {
+        margin: 0px !important;
+    }
+    .smile_button a h4 {
+        margin-left: 45px;
+    }
+ }
+ 
+ /* Custom, iPhone Retina */ 
+ @media only screen and (max-width : 320px) {
+    .carousel_content h1 {
+        font-size: 16px !important;
+    }
+    .carousel_content h3 {
+        display: none;
+    }
+    .carousel_content a {
+        font-size: 10px !important;
+        margin-left: 60px !important;
+    }
+    .dr_younus img{
+        display: none;
+    }
+    .atalan_ta h1 {
+        font-size: 20px !important;
+    }
+    .atalan_ta p{
+        font-size: 12px !important;
+    }
+    .atalan_ta {
+        font-size: 15px !important;
+    }
+    .vedio_text h1 {
+        font-size: 25px !important;
+        padding-top: 160px !important;
+    }
+    .vedio_text a {
+        font-size: 10px !important;
+    }
+    .four_content {
+        padding-top: 40px !important;
+    }
+    .inova_tiv h1 {
+        font-size: 25px !important;
+    }
+    .medical_header h1 {
+        font-size: 30px !important;
+    }
+    .Congen_ital {
+        text-align: center;
+    }
+    .start_bg h1 {
+        font-size: 20px !important;
+    }
+    .image_star {
+        padding-left: 60%;
+        margin-left: 0px !important;
+    }
+    .image_star img {
+        width: 25px !important;
+        height: auto !important;
+    }
+    .star_button  {
+        margin:0px !important;
+    }
+    .star_button a{
+        margin-left: 40%;
+        font-size: 15px !important;
+    }
+    .smile_special p {
+        font-size: 15px !important;
+    }
+    .smile_button {
+        margin: 0px !important;
+    }
+    .smile_button a h4 {
+        margin-left: 45px;
+    }
+ }
+ /* section no:all responsive end */ 
+ 
